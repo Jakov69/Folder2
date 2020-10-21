@@ -1,2 +1,2 @@
 # Folder2
-Prvi put
+Prvi zadatak
